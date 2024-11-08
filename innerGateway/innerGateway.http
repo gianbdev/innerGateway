@@ -1,0 +1,6 @@
+@innerGateway_HostAddress = http://localhost:5112
+
+GET {{innerGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
